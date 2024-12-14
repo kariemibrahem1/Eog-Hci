@@ -1,0 +1,9 @@
+#0 for up
+#1 for down
+#4 for blink
+#3 for left
+#2 for right
+
+
+
+
